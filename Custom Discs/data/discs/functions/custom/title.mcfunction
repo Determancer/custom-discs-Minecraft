@@ -1,0 +1,1 @@
+title @a[distance=..10] actionbar {"text": "Now Playing: Custom Music","color": "#FFD700"}
